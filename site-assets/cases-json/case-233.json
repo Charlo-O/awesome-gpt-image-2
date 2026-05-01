@@ -1,0 +1,22 @@
+{
+  "id": 233,
+  "slug": "case-233",
+  "title": "蒙娜丽莎畅饮可乐的趣味油画",
+  "category": {
+    "key": "scene",
+    "label": "场景与叙事"
+  },
+  "source": {
+    "label": "@liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2045058142858555733",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case233.jpg",
+  "prompt": "[中文]\n生成一张蒙娜丽莎喝可乐的油画。\n\n[English]\nGenerate an oil painting of Mona Lisa drinking cola.",
+  "request": {
+    "prompt": "[中文]\n生成一张蒙娜丽莎喝可乐的油画。\n\n[English]\nGenerate an oil painting of Mona Lisa drinking cola.",
+    "image": "data/images/case233.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-233",
+  "featured": false
+}

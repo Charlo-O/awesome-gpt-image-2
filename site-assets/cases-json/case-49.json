@@ -1,0 +1,22 @@
+{
+  "id": 49,
+  "slug": "case-49",
+  "title": "直播界面设计图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@kylegeeks",
+    "url": "https://x.com/kylegeeks",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case49.jpg",
+  "prompt": "A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name=\"celebrity\" default=\"Liu Yifei\"} is broadcasting, holding a sign that says \"{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}\"",
+  "request": {
+    "prompt": "A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name=\"celebrity\" default=\"Liu Yifei\"} is broadcasting, holding a sign that says \"{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}\"",
+    "image": "data/images/case49.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-49",
+  "featured": false
+}

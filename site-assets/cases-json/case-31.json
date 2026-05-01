@@ -1,0 +1,22 @@
+{
+  "id": 31,
+  "slug": "case-31",
+  "title": "人像写实摄影图",
+  "category": {
+    "key": "photo",
+    "label": "摄影与写实"
+  },
+  "source": {
+    "label": "@jun_kongo",
+    "url": "https://x.com/jun_kongo",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case31.jpg",
+  "prompt": "A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name=\"hair color\" default=\"ash-blonde\"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}. Her arms are resting casually on her knees. The background is a bright {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}, with a blurred {argument name=\"background setting\" default=\"chain-link fence and green trees\"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.",
+  "request": {
+    "prompt": "A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name=\"hair color\" default=\"ash-blonde\"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name=\"outfit\" default=\"Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers\"}. Her arms are resting casually on her knees. The background is a bright {argument name=\"sky condition\" default=\"clear blue sky with scattered white clouds\"}, with a blurred {argument name=\"background setting\" default=\"chain-link fence and green trees\"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.",
+    "image": "data/images/case31.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-31",
+  "featured": false
+}

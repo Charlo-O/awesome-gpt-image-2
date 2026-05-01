@@ -1,0 +1,22 @@
+{
+  "id": 247,
+  "slug": "case-247",
+  "title": "运动健身图标字体设计",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "@akokoi1",
+    "url": "https://x.com/akokoi1/status/2045693939584516441",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case247.jpg",
+  "prompt": "[中文]\n生成一套运动类app的iconfont\n\n[English]\nGenerate a set of iconfont for a sports app",
+  "request": {
+    "prompt": "[中文]\n生成一套运动类app的iconfont\n\n[English]\nGenerate a set of iconfont for a sports app",
+    "image": "data/images/case247.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-247",
+  "featured": false
+}

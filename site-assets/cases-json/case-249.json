@@ -1,0 +1,22 @@
+{
+  "id": 249,
+  "slug": "case-249",
+  "title": "美女举牌感谢大哥打赏大火箭",
+  "category": {
+    "key": "history",
+    "label": "历史与古风题材"
+  },
+  "source": {
+    "label": "@joshesye",
+    "url": "https://x.com/joshesye/status/2044796366950703316",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case249.jpg",
+  "prompt": "[中文]\n生成一个抖音直播的截图 ，一个美女在直播，美女手里拿着牌子，上面写着：谢谢行者大哥的大火箭！\n\n[English]\nGenerate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!",
+  "request": {
+    "prompt": "[中文]\n生成一个抖音直播的截图 ，一个美女在直播，美女手里拿着牌子，上面写着：谢谢行者大哥的大火箭！\n\n[English]\nGenerate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!",
+    "image": "data/images/case249.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-249",
+  "featured": false
+}

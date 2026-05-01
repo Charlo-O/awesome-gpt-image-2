@@ -1,0 +1,22 @@
+{
+  "id": 226,
+  "slug": "case-226",
+  "title": "古风明朝帝王群像长卷",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "@liyue_ai",
+    "url": "https://x.com/liyue_ai/status/2045071977279635962",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case226.jpg",
+  "prompt": "[中文]\n根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字\n\n[English]\nBased on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits",
+  "request": {
+    "prompt": "[中文]\n根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字\n\n[English]\nBased on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits",
+    "image": "data/images/case226.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-226",
+  "featured": false
+}

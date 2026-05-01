@@ -1,0 +1,22 @@
+{
+  "id": 361,
+  "slug": "case-361",
+  "title": "手机爆炸拆解图",
+  "category": {
+    "key": "other",
+    "label": "其他应用场景"
+  },
+  "source": {
+    "label": "@Ankit_patel211",
+    "url": "https://x.com/Ankit_patel211/status/2048834306379075759",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case361.jpg",
+  "prompt": "Create a 3D Insane detailed exploded assembly drawing of [subject or object]",
+  "request": {
+    "prompt": "Create a 3D Insane detailed exploded assembly drawing of [subject or object]",
+    "image": "data/images/case361.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-361",
+  "featured": true
+}

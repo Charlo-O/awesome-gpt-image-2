@@ -1,0 +1,22 @@
+{
+  "id": 185,
+  "slug": "case-185",
+  "title": "武则天发微博自拍太魔性了",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "@MrLarus",
+    "url": "https://x.com/MrLarus/status/2046585220393324553",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case185.jpg",
+  "prompt": "[中文]\n武则天自拍登记发微博\n\n[English]\nWu Zetian taking a selfie, registering and posting on Weibo.",
+  "request": {
+    "prompt": "[中文]\n武则天自拍登记发微博\n\n[English]\nWu Zetian taking a selfie, registering and posting on Weibo.",
+    "image": "data/images/case185.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-185",
+  "featured": false
+}

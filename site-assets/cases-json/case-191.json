@@ -1,0 +1,22 @@
+{
+  "id": 191,
+  "slug": "case-191",
+  "title": "史诗级科幻电影海报设计",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "@underwoodxie96",
+    "url": "https://x.com/underwoodxie96/status/2046514205529088501",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case191.jpg",
+  "prompt": "[中文]\n创建一张科幻电影海报\n\n[English]\nCreate a Science fiction movie poster",
+  "request": {
+    "prompt": "[中文]\n创建一张科幻电影海报\n\n[English]\nCreate a Science fiction movie poster",
+    "image": "data/images/case191.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-191",
+  "featured": false
+}

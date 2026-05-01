@@ -1,0 +1,22 @@
+{
+  "id": 110,
+  "slug": "case-110",
+  "title": "视频封面界面图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@TlanoAI",
+    "url": "https://x.com/TlanoAI",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case110.jpg",
+  "prompt": "Thumbnail for a YouTube unboxing video, a video of {argument name=\"topic\" default=\"opening all overdue bills\"}, {argument name=\"quantity\" default=\"100 in a row\"}",
+  "request": {
+    "prompt": "Thumbnail for a YouTube unboxing video, a video of {argument name=\"topic\" default=\"opening all overdue bills\"}, {argument name=\"quantity\" default=\"100 in a row\"}",
+    "image": "data/images/case110.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-110",
+  "featured": false
+}

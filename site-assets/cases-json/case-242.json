@@ -1,0 +1,22 @@
+{
+  "id": 242,
+  "slug": "case-242",
+  "title": "绝美国风工笔画书签设计",
+  "category": {
+    "key": "document",
+    "label": "文档与出版物"
+  },
+  "source": {
+    "label": "@akokoi1",
+    "url": "https://x.com/akokoi1/status/2045693939584516441",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case242.jpg",
+  "prompt": "[中文]\n生成一系列工笔画书签的设计稿\n\n[English]\nGenerate a series of design drafts for Gongbi painting bookmarks.",
+  "request": {
+    "prompt": "[中文]\n生成一系列工笔画书签的设计稿\n\n[English]\nGenerate a series of design drafts for Gongbi painting bookmarks.",
+    "image": "data/images/case242.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-242",
+  "featured": false
+}

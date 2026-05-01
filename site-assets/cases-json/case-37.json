@@ -1,0 +1,22 @@
+{
+  "id": 37,
+  "slug": "case-37",
+  "title": "综合应用场景图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@midori_tatsuta",
+    "url": "https://x.com/midori_tatsuta",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case37.jpg",
+  "prompt": "Create {argument name=\"quantity\" default=\"24\"} LINE stickers of {argument name=\"animals\" default=\"animals\"} in a quirky hand-drawn style. Target {argument name=\"target audience\" default=\"Japanese Gen Z\"} with a trendy style that can aim for top downloads.",
+  "request": {
+    "prompt": "Create {argument name=\"quantity\" default=\"24\"} LINE stickers of {argument name=\"animals\" default=\"animals\"} in a quirky hand-drawn style. Target {argument name=\"target audience\" default=\"Japanese Gen Z\"} with a trendy style that can aim for top downloads.",
+    "image": "data/images/case37.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-37",
+  "featured": false
+}

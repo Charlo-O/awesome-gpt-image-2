@@ -1,0 +1,22 @@
+{
+  "id": 336,
+  "slug": "case-336",
+  "title": "个人网页视觉设计",
+  "category": {
+    "key": "other",
+    "label": "其他应用场景"
+  },
+  "source": {
+    "label": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+    "url": null,
+    "channel": "社区"
+  },
+  "image": "data/images/case336.png",
+  "prompt": "原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。",
+  "request": {
+    "prompt": "原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。",
+    "image": "data/images/case336.png"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-336",
+  "featured": false
+}

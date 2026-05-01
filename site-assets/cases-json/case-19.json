@@ -1,0 +1,22 @@
+{
+  "id": 19,
+  "slug": "case-19",
+  "title": "信息图可视化设计",
+  "category": {
+    "key": "infographic",
+    "label": "图表与信息可视化"
+  },
+  "source": {
+    "label": "@yammamon",
+    "url": "https://x.com/yammamon",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case19.jpg",
+  "prompt": "Create an explanatory slide ({argument name=\"format\" default=\"ponchi-e diagram\"}) for {argument name=\"theme\" default=\"Momotaro\"} that fuses the gentle atmosphere of \"Irasutoya\" with the overwhelming information density of \"Kasumigaseki slides\".",
+  "request": {
+    "prompt": "Create an explanatory slide ({argument name=\"format\" default=\"ponchi-e diagram\"}) for {argument name=\"theme\" default=\"Momotaro\"} that fuses the gentle atmosphere of \"Irasutoya\" with the overwhelming information density of \"Kasumigaseki slides\".",
+    "image": "data/images/case19.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-19",
+  "featured": false
+}

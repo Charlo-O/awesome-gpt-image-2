@@ -1,0 +1,22 @@
+{
+  "id": 200,
+  "slug": "case-200",
+  "title": "热度爆表的美女内衣直播间",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@xiaohu",
+    "url": "https://x.com/xiaohu/status/2046536551681954207",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case200.jpg",
+  "prompt": "[中文]\n生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物\n\n[English]\nGenerate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift",
+  "request": {
+    "prompt": "[中文]\n生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物\n\n[English]\nGenerate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift",
+    "image": "data/images/case200.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-200",
+  "featured": false
+}

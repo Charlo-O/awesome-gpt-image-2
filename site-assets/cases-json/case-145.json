@@ -1,0 +1,22 @@
+{
+  "id": 145,
+  "slug": "case-145",
+  "title": "综合应用场景图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@alanlovelq",
+    "url": "https://x.com/alanlovelq",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case145.jpg",
+  "prompt": "A {argument name=\"platform\" default=\"Taobao\"} product detail page for {argument name=\"robot model\" default=\"T-800 robot\"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.",
+  "request": {
+    "prompt": "A {argument name=\"platform\" default=\"Taobao\"} product detail page for {argument name=\"robot model\" default=\"T-800 robot\"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.",
+    "image": "data/images/case145.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-145",
+  "featured": false
+}

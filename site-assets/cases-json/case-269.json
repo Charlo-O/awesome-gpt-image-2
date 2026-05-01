@@ -1,0 +1,22 @@
+{
+  "id": 269,
+  "slug": "case-269",
+  "title": "拒绝盲目催婚的暖心视频号截图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@MrLarus",
+    "url": "https://x.com/MrLarus/status/2045373105041007013",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case269.jpg",
+  "prompt": "[中文]\n生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸\n\n[English]\nGenerate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size",
+  "request": {
+    "prompt": "[中文]\n生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸\n\n[English]\nGenerate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size",
+    "image": "data/images/case269.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-269",
+  "featured": false
+}

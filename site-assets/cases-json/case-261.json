@@ -1,0 +1,22 @@
+{
+  "id": 261,
+  "slug": "case-261",
+  "title": "智能视频生成器暗黑界面设计",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@austinit",
+    "url": "https://x.com/austinit/status/2044968740782272596",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case261.jpg",
+  "prompt": "[中文]\n渲染一个专业的IOS APP首页UI图，该主题为AI Video Generator,英文界面。专业级设计，专业风格，暗黑色主题。\n\n[English]\nRender a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.",
+  "request": {
+    "prompt": "[中文]\n渲染一个专业的IOS APP首页UI图，该主题为AI Video Generator,英文界面。专业级设计，专业风格，暗黑色主题。\n\n[English]\nRender a professional iOS APP homepage UI image, the theme is AI Video Generator, English interface. Professional-level design, professional style, dark theme.",
+    "image": "data/images/case261.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-261",
+  "featured": false
+}

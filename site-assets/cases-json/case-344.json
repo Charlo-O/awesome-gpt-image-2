@@ -1,0 +1,22 @@
+{
+  "id": 344,
+  "slug": "case-344",
+  "title": "NOIR 街头服饰 Campaign",
+  "category": {
+    "key": "brand",
+    "label": "品牌与标志"
+  },
+  "source": {
+    "label": "@Daniel_adsss",
+    "url": "https://x.com/Daniel_adsss/status/2048542581638701446",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case344.jpg",
+  "prompt": "Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like \"Wear the Dark.\" Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.",
+  "request": {
+    "prompt": "Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like \"Wear the Dark.\" Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.",
+    "image": "data/images/case344.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-344",
+  "featured": true
+}

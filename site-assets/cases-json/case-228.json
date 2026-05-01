@@ -1,0 +1,22 @@
+{
+  "id": 228,
+  "slug": "case-228",
+  "title": "完美匹配的海报广告图",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "@Kashiko_AIart",
+    "url": "https://x.com/Kashiko_AIart/status/2045787856292151322",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case228.jpg",
+  "prompt": "[中文]\n生成一张与这张图片完美匹配的广告图片。信息量要多一些。\n\n[English]\nGenerate an advertising image that perfectly matches this image. There should be a lot of information.",
+  "request": {
+    "prompt": "[中文]\n生成一张与这张图片完美匹配的广告图片。信息量要多一些。\n\n[English]\nGenerate an advertising image that perfectly matches this image. There should be a lot of information.",
+    "image": "data/images/case228.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-228",
+  "featured": false
+}

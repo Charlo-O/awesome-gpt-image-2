@@ -1,0 +1,22 @@
+{
+  "id": 337,
+  "slug": "case-337",
+  "title": "《短歌行》诗词意境图",
+  "category": {
+    "key": "history",
+    "label": "历史与古风题材"
+  },
+  "source": {
+    "label": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+    "url": null,
+    "channel": "社区"
+  },
+  "image": "data/images/case337.png",
+  "prompt": "帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字",
+  "request": {
+    "prompt": "帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字",
+    "image": "data/images/case337.png"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-337",
+  "featured": false
+}

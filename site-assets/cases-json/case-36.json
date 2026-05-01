@@ -1,0 +1,22 @@
+{
+  "id": 36,
+  "slug": "case-36",
+  "title": "品牌徽标设计图",
+  "category": {
+    "key": "brand",
+    "label": "品牌与标志"
+  },
+  "source": {
+    "label": "@mirochill",
+    "url": "https://x.com/mirochill",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case36.jpg",
+  "prompt": "A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name=\"ball color\" default=\"green\"} basketball featuring a large white {argument name=\"logo design\" default=\"OpenAI logo\"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.",
+  "request": {
+    "prompt": "A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name=\"ball color\" default=\"green\"} basketball featuring a large white {argument name=\"logo design\" default=\"OpenAI logo\"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.",
+    "image": "data/images/case36.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-36",
+  "featured": false
+}

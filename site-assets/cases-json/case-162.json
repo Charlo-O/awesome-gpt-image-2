@@ -1,0 +1,22 @@
+{
+  "id": 162,
+  "slug": "case-162",
+  "title": "人物角色设定图",
+  "category": {
+    "key": "character",
+    "label": "人物与角色"
+  },
+  "source": {
+    "label": "@nicdunz",
+    "url": "https://x.com/nicdunz",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case162.jpg",
+  "prompt": "{argument name=\"voice\" default=\"chatgpt voice\"} if it were a character",
+  "request": {
+    "prompt": "{argument name=\"voice\" default=\"chatgpt voice\"} if it were a character",
+    "image": "data/images/case162.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-162",
+  "featured": false
+}

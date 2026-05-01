@@ -1,0 +1,22 @@
+{
+  "id": 237,
+  "slug": "case-237",
+  "title": "夏日柑橘苏打高转化广告图",
+  "category": {
+    "key": "ecommerce",
+    "label": "商品与电商"
+  },
+  "source": {
+    "label": "@old_pgmrs_will",
+    "url": "https://x.com/old_pgmrs_will/status/2045852114673635507",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case237.jpg",
+  "prompt": "[中文]\n图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称=\"夏柑SODA\", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4\n\n[English]\nImage generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name=\"Summer Citrus SODA\", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4",
+  "request": {
+    "prompt": "[中文]\n图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称=\"夏柑SODA\", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4\n\n[English]\nImage generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name=\"Summer Citrus SODA\", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4",
+    "image": "data/images/case237.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-237",
+  "featured": false
+}

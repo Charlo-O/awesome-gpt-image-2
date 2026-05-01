@@ -1,0 +1,22 @@
+{
+  "id": 245,
+  "slug": "case-245",
+  "title": "马斯克专属篆刻印章设计",
+  "category": {
+    "key": "scene",
+    "label": "场景与叙事"
+  },
+  "source": {
+    "label": "@akokoi1",
+    "url": "https://x.com/akokoi1/status/2045693939584516441",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case245.jpg",
+  "prompt": "[中文]\n给”埃隆·马斯克”设计一组篆刻印章\n\n[English]\nDesign a set of seal carving stamps for \"Elon Musk\"",
+  "request": {
+    "prompt": "[中文]\n给”埃隆·马斯克”设计一组篆刻印章\n\n[English]\nDesign a set of seal carving stamps for \"Elon Musk\"",
+    "image": "data/images/case245.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-245",
+  "featured": false
+}

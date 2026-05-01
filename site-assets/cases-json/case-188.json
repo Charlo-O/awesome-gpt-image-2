@@ -1,0 +1,22 @@
+{
+  "id": 188,
+  "slug": "case-188",
+  "title": "暗黑极简头像网站视觉设计",
+  "category": {
+    "key": "photo",
+    "label": "摄影与写实"
+  },
+  "source": {
+    "label": "@xiaoxiaodong01",
+    "url": "https://x.com/xiaoxiaodong01/status/2046556758521573546",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case188.jpg",
+  "prompt": "[中文]\n用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。\n\n[English]\nIn the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.",
+  "request": {
+    "prompt": "[中文]\n用 ABCD（a black cover design) 的风格，为 图你太美 设计一个 vi 系统。图你太美是一个头像美图分享 网站。\n\n[English]\nIn the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Mei. Tu Ni Tai Mei is an avatar and beauty photo sharing website.",
+    "image": "data/images/case188.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-188",
+  "featured": false
+}

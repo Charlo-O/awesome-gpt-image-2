@@ -1,0 +1,22 @@
+{
+  "id": 260,
+  "slug": "case-260",
+  "title": "社媒界面截图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@MrLarus",
+    "url": "https://x.com/MrLarus/status/2045373105041007013",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case260.jpg",
+  "prompt": "[中文]\n生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸\n\n[English]\nGenerate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size",
+  "request": {
+    "prompt": "[中文]\n生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸\n\n[English]\nGenerate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size",
+    "image": "data/images/case260.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-260",
+  "featured": false
+}

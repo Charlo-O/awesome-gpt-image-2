@@ -1,0 +1,22 @@
+{
+  "id": 332,
+  "slug": "case-332",
+  "title": "茶π产品宣传海报",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+    "url": null,
+    "channel": "社区"
+  },
+  "image": "data/images/case332.png",
+  "prompt": "帮这个产品生成宣传图",
+  "request": {
+    "prompt": "帮这个产品生成宣传图",
+    "image": "data/images/case332.png"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-332",
+  "featured": false
+}

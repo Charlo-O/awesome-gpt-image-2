@@ -1,0 +1,22 @@
+{
+  "id": 294,
+  "slug": "case-294",
+  "title": "精美潮汕菜馆菜单图",
+  "category": {
+    "key": "other",
+    "label": "其他应用场景"
+  },
+  "source": {
+    "label": "@MrLarus",
+    "url": "https://x.com/MrLarus/status/2044824800909054181",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case294.jpg",
+  "prompt": "[中文]\n生成一张潮菜馆菜单图\n\n[English]\nGenerate a Teochew restaurant menu image.",
+  "request": {
+    "prompt": "[中文]\n生成一张潮菜馆菜单图\n\n[English]\nGenerate a Teochew restaurant menu image.",
+    "image": "data/images/case294.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-294",
+  "featured": false
+}

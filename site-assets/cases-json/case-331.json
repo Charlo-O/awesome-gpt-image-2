@@ -1,0 +1,22 @@
+{
+  "id": 331,
+  "slug": "case-331",
+  "title": "西安手绘水彩城市地图",
+  "category": {
+    "key": "illustration",
+    "label": "插画与艺术"
+  },
+  "source": {
+    "label": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+    "url": null,
+    "channel": "社区"
+  },
+  "image": "data/images/case331.png",
+  "prompt": "生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色",
+  "request": {
+    "prompt": "生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色",
+    "image": "data/images/case331.png"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-331",
+  "featured": false
+}

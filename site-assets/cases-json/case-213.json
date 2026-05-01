@@ -1,0 +1,22 @@
+{
+  "id": 213,
+  "slug": "case-213",
+  "title": "金瓶梅古风开放世界游戏截图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@op7418",
+    "url": "https://x.com/op7418/status/2046520509651886451",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case213.jpg",
+  "prompt": "[中文]\n帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图\n\n[English]\nHelp me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.",
+  "request": {
+    "prompt": "[中文]\n帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图\n\n[English]\nHelp me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.",
+    "image": "data/images/case213.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-213",
+  "featured": false
+}

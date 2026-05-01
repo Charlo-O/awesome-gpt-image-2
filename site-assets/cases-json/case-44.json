@@ -1,0 +1,22 @@
+{
+  "id": 44,
+  "slug": "case-44",
+  "title": "古风历史题材图",
+  "category": {
+    "key": "history",
+    "label": "历史与古风题材"
+  },
+  "source": {
+    "label": "@liyue_ai",
+    "url": "https://x.com/liyue_ai",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case44.jpg",
+  "prompt": "Generate avatars of various emperors from the {argument name=\"dynasty\" default=\"Ming Dynasty\"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.",
+  "request": {
+    "prompt": "Generate avatars of various emperors from the {argument name=\"dynasty\" default=\"Ming Dynasty\"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.",
+    "image": "data/images/case44.jpg"
+  },
+  "docsPath": "docs/gallery-part-1.md#case-44",
+  "featured": false
+}

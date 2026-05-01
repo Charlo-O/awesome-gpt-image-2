@@ -1,0 +1,22 @@
+{
+  "id": 289,
+  "slug": "case-289",
+  "title": "直播界面设计图",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@rionaifantasy",
+    "url": "https://x.com/rionaifantasy/status/2045356799751303194",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case289.jpg",
+  "prompt": "[中文]\n生成特朗普和金正恩在抖音直播间打PK的截图\n\n[English]\nGenerate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room",
+  "request": {
+    "prompt": "[中文]\n生成特朗普和金正恩在抖音直播间打PK的截图\n\n[English]\nGenerate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room",
+    "image": "data/images/case289.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-289",
+  "featured": false
+}

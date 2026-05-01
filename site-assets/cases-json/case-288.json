@@ -1,0 +1,22 @@
+{
+  "id": 288,
+  "slug": "case-288",
+  "title": "抖音美女直播间界面设计",
+  "category": {
+    "key": "ui",
+    "label": "UI与界面"
+  },
+  "source": {
+    "label": "@msjiaozhu",
+    "url": "https://x.com/msjiaozhu/status/2045470160576999812",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case288.jpg",
+  "prompt": "[中文]\n生成抖音直播间界面，内容是一个美女在直播\n\n[English]\nGenerate a TikTok live stream interface, the content is a beautiful woman live streaming",
+  "request": {
+    "prompt": "[中文]\n生成抖音直播间界面，内容是一个美女在直播\n\n[English]\nGenerate a TikTok live stream interface, the content is a beautiful woman live streaming",
+    "image": "data/images/case288.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-288",
+  "featured": false
+}

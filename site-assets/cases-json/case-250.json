@@ -1,0 +1,22 @@
+{
+  "id": 250,
+  "slug": "case-250",
+  "title": "小王子与星舰的浪漫联名",
+  "category": {
+    "key": "history",
+    "label": "历史与古风题材"
+  },
+  "source": {
+    "label": "@akokoi1",
+    "url": "https://x.com/akokoi1/status/2045693939584516441",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case250.jpg",
+  "prompt": "[中文]\n设计一张小王子和SpaceX联名的明信片\n\n[English]\nDesign a postcard co-branded by The Little Prince and SpaceX",
+  "request": {
+    "prompt": "[中文]\n设计一张小王子和SpaceX联名的明信片\n\n[English]\nDesign a postcard co-branded by The Little Prince and SpaceX",
+    "image": "data/images/case250.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-250",
+  "featured": true
+}

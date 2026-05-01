@@ -1,0 +1,22 @@
+{
+  "id": 182,
+  "slug": "case-182",
+  "title": "千禧年日系校园喜剧场景",
+  "category": {
+    "key": "architecture",
+    "label": "建筑与空间"
+  },
+  "source": {
+    "label": "@UminekoStudio",
+    "url": "https://x.com/UminekoStudio/status/2046488248256806981",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case182.jpg",
+  "prompt": "[中文]\n2000 年代面向中学生的日剧喜剧场景\n\n[English]\n2000s Japanese TV drama comedy scene aimed at middle school students",
+  "request": {
+    "prompt": "[中文]\n2000 年代面向中学生的日剧喜剧场景\n\n[English]\n2000s Japanese TV drama comedy scene aimed at middle school students",
+    "image": "data/images/case182.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-182",
+  "featured": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 178,
+  "slug": "case-178",
+  "title": "亚马逊详情图设计",
+  "category": {
+    "key": "poster",
+    "label": "海报与排版"
+  },
+  "source": {
+    "label": "@xin_pai88825",
+    "url": "https://x.com/xin_pai88825/status/2046576100592201946",
+    "channel": "X 社区"
+  },
+  "image": "data/images/case178.jpg",
+  "prompt": "[中文]\n生成一套亚马逊 A+=详情图\n\n[English]\nGenerate a set of Amazon A+= detail images",
+  "request": {
+    "prompt": "[中文]\n生成一套亚马逊 A+=详情图\n\n[English]\nGenerate a set of Amazon A+= detail images",
+    "image": "data/images/case178.jpg"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-178",
+  "featured": false
+}

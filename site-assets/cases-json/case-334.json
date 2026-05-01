@@ -1,0 +1,22 @@
+{
+  "id": 334,
+  "slug": "case-334",
+  "title": "RAG 技术详解图",
+  "category": {
+    "key": "infographic",
+    "label": "图表与信息可视化"
+  },
+  "source": {
+    "label": "苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）",
+    "url": null,
+    "channel": "社区"
+  },
+  "image": "data/images/case334.png",
+  "prompt": "帮我生成一张 RAG 技术的详细讲解图",
+  "request": {
+    "prompt": "帮我生成一张 RAG 技术的详细讲解图",
+    "image": "data/images/case334.png"
+  },
+  "docsPath": "docs/gallery-part-2.md#case-334",
+  "featured": true
+}

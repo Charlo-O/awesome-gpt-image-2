@@ -19,7 +19,6 @@
     featuredToggle: document.getElementById("toggle-featured"),
     favoritesToggle: document.getElementById("toggle-favorites"),
     resultCount: document.getElementById("result-count"),
-    featuredStrip: document.getElementById("featured-strip"),
     grid: document.getElementById("case-grid"),
     modal: document.getElementById("modal"),
     modalBackdrop: document.getElementById("modal-backdrop"),
@@ -38,11 +37,14 @@
     "ui",
     "infographic",
     "poster",
-    "commerce",
-    "space",
+    "ecommerce",
+    "brand",
+    "architecture",
     "photo",
     "illustration",
     "character",
+    "scene",
+    "history",
     "document",
     "other",
   ];
@@ -58,7 +60,6 @@
       meta.totalCategories || new Set(cases.map((item) => item.categoryKey)).size;
 
     renderFilters();
-    renderFeaturedStrip();
     bindEvents();
     render();
   }
@@ -130,11 +131,6 @@
     return button;
   }
 
-  function renderFeaturedStrip() {
-    const featured = cases.filter((item) => item.featured).slice(0, 4);
-    els.featuredStrip.replaceChildren(...featured.map(createFeatureTile));
-  }
-
   function render() {
     const visible = cases.filter(matchesState);
     els.resultCount.textContent = `${visible.length} / ${cases.length}`;
@@ -168,28 +164,6 @@
     }
 
     return normalize(item.searchText).includes(normalize(state.query));
-  }
-
-  function createFeatureTile(item) {
-    const tile = document.createElement("article");
-    tile.className = "feature-tile";
-
-    const img = document.createElement("img");
-    img.src = item.image;
-    img.alt = item.imageAlt;
-    img.loading = "lazy";
-
-    const button = document.createElement("button");
-    button.type = "button";
-    button.addEventListener("click", () => openModal(item));
-
-    const copy = document.createElement("div");
-    copy.className = "feature-copy";
-    copy.innerHTML = `<span>例 ${item.id}</span><strong>${escapeHtml(item.title)}</strong>`;
-
-    button.append(copy);
-    tile.append(img, button);
-    return tile;
   }
 
   function createCaseCard(item) {
@@ -270,7 +244,7 @@
       createPill(item.source.label)
     );
 
-    const links = [createLink(item.docsPath, "Markdown")];
+    const links = [createLink(item.jsonPath || "site-assets/cases.json", "JSON")];
 
     if (item.source.url) {
       links.push(createLink(item.source.url, "来源"));
