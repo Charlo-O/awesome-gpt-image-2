@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome GPT-Image2 Prompt Atlas</title>
+  <meta name="description" content="GPT-Image2 结构化提示词案例索引，支持分类筛选、搜索、精选浏览和提示词复制。">
+  <link rel="stylesheet" href="site-assets/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="page-shell">
+      <nav class="topbar" aria-label="站点导航">
+        <a class="brand" href="./" aria-label="Awesome GPT Image 2 首页">
+          <span class="brand-mark">G2</span>
+          <span class="brand-copy">
+            <strong>Awesome GPT-Image2</strong>
+            <small>Prompt Atlas</small>
+          </span>
+        </a>
+        <div class="topbar-links">
+          <a href="docs/gallery.md">画廊</a>
+          <a href="docs/templates.md">模板</a>
+          <a href="docs/disclaimer.md">声明</a>
+          <a href="https://github.com/Charlo-O/awesome-gpt-image-2" rel="noreferrer">GitHub</a>
+        </div>
+      </nav>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Prompt as Code / GPT-Image2</p>
+          <h1 id="hero-title">把 367 个图像提示词案例整理成可检索的视觉协议库</h1>
+          <p class="hero-desc">
+            从 UI、信息图、海报、商品、摄影、插画到角色设定，快速定位案例结构、来源和完整提示词。
+          </p>
+          <div class="hero-actions" aria-label="快速入口">
+            <a class="primary-action" href="#cases">浏览案例</a>
+            <a class="secondary-action" href="docs/templates.md">查看模板</a>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="站点统计">
+          <div class="stat-block">
+            <span class="stat-label">案例数</span>
+            <strong id="stat-cases">367</strong>
+          </div>
+          <div class="stat-block">
+            <span class="stat-label">精选入口</span>
+            <strong id="stat-featured">0</strong>
+          </div>
+          <div class="stat-block">
+            <span class="stat-label">分类</span>
+            <strong id="stat-categories">0</strong>
+          </div>
+        </aside>
+      </section>
+    </div>
+  </header>
+
+  <main id="cases">
+    <section class="toolbar page-shell" aria-label="筛选与搜索">
+      <div class="search-box">
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" placeholder="搜索案例、来源或提示词关键词" autocomplete="off">
+      </div>
+      <div class="view-actions" aria-label="视图操作">
+        <button class="icon-button" id="toggle-featured" type="button" aria-pressed="false" title="只看精选">★</button>
+        <button class="icon-button" id="toggle-favorites" type="button" aria-pressed="false" title="只看收藏">♡</button>
+      </div>
+    </section>
+
+    <section class="filters page-shell" id="filters" aria-label="案例分类"></section>
+
+    <section class="section-head page-shell" aria-live="polite">
+      <div>
+        <p class="eyebrow">Case Index</p>
+        <h2>案例索引</h2>
+      </div>
+      <p id="result-count">0 / 0</p>
+    </section>
+
+    <section class="featured-strip page-shell" id="featured-strip" aria-label="精选案例"></section>
+
+    <section class="grid page-shell" id="case-grid" aria-label="案例列表"></section>
+  </main>
+
+  <div class="modal-layer" id="modal" aria-hidden="true">
+    <button class="modal-backdrop" id="modal-backdrop" type="button" aria-label="关闭"></button>
+    <article class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal-close" id="modal-close" type="button" aria-label="关闭">×</button>
+      <div class="modal-media">
+        <img id="modal-image" alt="">
+      </div>
+      <div class="modal-content">
+        <div class="modal-kicker" id="modal-kicker"></div>
+        <h2 id="modal-title"></h2>
+        <div class="modal-meta" id="modal-meta"></div>
+        <p id="modal-summary"></p>
+        <div class="prompt-head">
+          <span>完整提示词</span>
+          <button class="copy-button" id="copy-prompt" type="button">复制</button>
+        </div>
+        <pre class="prompt-box"><code id="modal-prompt"></code></pre>
+        <div class="modal-links" id="modal-links"></div>
+      </div>
+    </article>
+  </div>
+
+  <footer class="site-footer page-shell">
+    <span>Built from local Markdown and image assets.</span>
+    <span><a href="README.md">README</a> · <a href="docs/gallery.md">Gallery</a> · <a href="docs/templates.md">Templates</a></span>
+  </footer>
+
+  <script src="site-assets/cases.js"></script>
+  <script src="site-assets/site.js"></script>
+</body>
+</html>
