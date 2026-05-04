@@ -183,59 +183,16 @@ h1 {
 
 .hero-desc {
   max-width: 760px;
-  margin-bottom: 18px;
+  margin-bottom: 0;
   color: var(--muted);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
 }
 
-.hero-actions {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.primary-action,
-.secondary-action {
-  display: inline-flex;
-  min-height: 40px;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  padding: 8px 16px;
-  font-size: 15px;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background 0.15s, transform 0.1s;
-}
-
-.primary-action {
-  background: var(--accent);
-  color: #ffffff;
-}
-
-.primary-action:hover {
-  background: var(--accent-hover);
-}
-
-.primary-action:active {
-  transform: scale(0.95);
-}
-
-.secondary-action {
-  background: rgba(0,0,0,0.05);
-  color: var(--ink);
-}
-
-.secondary-action:hover {
-  background: rgba(0,0,0,0.08);
-}
-
 .hero-panel {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1px;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -677,15 +634,13 @@ h1 {
   letter-spacing: -0.625px;
 }
 
-.modal-meta,
-.modal-links {
+.modal-meta {
   display: flex;
   gap: 8px;
   flex-wrap: wrap;
 }
 
-.meta-pill,
-.modal-links a {
+.meta-pill {
   display: inline-flex;
   min-height: 28px;
   align-items: center;
@@ -698,10 +653,6 @@ h1 {
   font-weight: 500;
   text-decoration: none;
   transition: color 0.15s;
-}
-
-.modal-links a:hover {
-  color: var(--accent);
 }
 
 .prompt-head {
@@ -744,6 +695,10 @@ h1 {
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
   font-size: 13px;
   line-height: 1.5;
+}
+
+.prompt-box-agent {
+  background: #171f2d;
 }
 
 .site-footer {
